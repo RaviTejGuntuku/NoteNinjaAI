@@ -2,6 +2,24 @@
 
 Psst! Are you tired of listening to hour-long lectures and taking notes till your wrist hurts? Or do you want the jist of a lesson you missed? Enter **NoteNinjaAI** - powered by OpenAI services, this program can transform a lecture audio or transcription into structured notes, containing main topics followed by sub-bullets; general bullet points; and key definitions. You can preview the application by clicking here: [https://ravitejguntuku-noteninjaai.hf.space](https://ravitejguntuku-noteninjaai.hf.space)
 
+## HuggingFace Configuration
+
+---
+
+title: NoteNinjaAI
+emoji: 👀
+colorFrom: blue
+colorTo: yellow
+sdk: gradio
+sdk_version: 3.35.2
+app_file: app.py
+pinned: false
+license: apache-2.0
+
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
 ## Application Architecture
 
 ![Architecture Diagram for NoteNinjaAI](NoteTakerAI.jpg)
