@@ -14,7 +14,7 @@ license: apache-2.0
 
 # NoteNinjaAI
 
-Psst! Are you tired of listening to hour-long lectures and taking notes till your wrist hurts? Or do you want the jist of a lesson you missed? Enter **NoteNinjaAI** - powered by OpenAI services, this program can transform a lecture audio or transcription into structured notes, containing main topics followed by sub-bullets; general bullet points; and key definitions. You can preview the application by clicking here: [https://ravitejguntuku-noteninjaai.hf.space](https://ravitejguntuku-noteninjaai.hf.space)
+Psst! Are you tired of listening to hour-long lectures and taking notes till your wrist hurts? Or do you want the jist of a lesson you missed? Enter **NoteNinjaAI** - powered by OpenAI services, this program can transform a lecture audio or transcription into structured notes, containing main topics followed by sub-bullets; general bullet points; and key definitions. You can preview the application by clicking here: [https://ravitejguntuku-noteninjaai.hf.space](https://ravitejguntuku-noteninjaai.hf.space){:target="\_blank"}
 
 ## Application Architecture
 
