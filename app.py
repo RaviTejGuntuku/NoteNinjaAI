@@ -1,6 +1,7 @@
 import transcribe_audio as ta
 import note_taker as nt
 import gradio as gr
+import os
 
 def notesGenFrontEnd(audio_input, transcription_input):
 
