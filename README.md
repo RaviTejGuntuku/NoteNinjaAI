@@ -12,7 +12,7 @@ license: apache-2.0
 
 # NoteNinjaAI
 
-Psst! Are you tired of listening to hour-long lectures and taking notes till your wrist hurts? Or do you want the jist of a lesson you missed? Enter **NoteNinjaAI** - powered by OpenAI services, this program can transform a lecture audio or transcription into structured notes, containing main topics followed by sub-bullets; general bullet points; and key definitions. You can preview the application by clicking here: [https://ravitejguntuku-noteninjaai.hf.space](https://ravitejguntuku-noteninjaai.hf.space)
+Psst! Are you tired of listening to hour-long lectures and taking notes till your wrist hurts? Or do you want the jist of a lesson you missed? Enter **NoteNinjaAI** - powered by OpenAI services, this program can transform a lecture audio or transcription into structured notes, containing main topics followed by sub-bullets; general bullet points; and key definitions. You can preview the application by clicking here: <a href="https://ravitejguntuku-noteninjaai.hf.space" target="_blank">https://ravitejguntuku-noteninjaai.hf.space</a>
 
 ## Application Architecture
 
@@ -24,14 +24,14 @@ One of the main obstacles with using OpenAI's GPT-3 API is that each request has
 
 ## Steps for Installation
 
-Given that the majority of this app's functionality is powered by OpenAI services, be sure to install the python libraries for openai and openai-whisper (be sure that [Python](https://www.python.org/) is installed and properly configured beforehand):
+Given that the majority of this app's functionality is powered by OpenAI services, be sure to install the python libraries for openai and openai-whisper (be sure that <a href="https://www.python.org" target="_blank">Python</a> is installed and properly configured beforehand):
 
 ```bash
 pip install openai
 pip install openai-whisper
 ```
 
-The front-end of this application is powered by the [Gradio](https://www.gradio.app/) python library, which can be installed as shown below:
+The front-end of this application is powered by the <a href="https://www.gradio.app" target="_blank">Gradio</a> python library, which can be installed as shown below:
 
 ```bash
 pip install gradio
@@ -44,7 +44,7 @@ git clone https://github.com/RaviTejGuntuku/NoteNinjaAI.git
 cd NoteNinjaAI
 ```
 
-Create your own OpenAI API Secret Key — follow [this article](https://gptforwork.com/help/gpt-for-sheets/setup/create-openai-key) to learn how if necessary. Copy the secret key into a safe location. Create a .env file in the project's directory containing one line:
+Create your own OpenAI API Secret Key — follow <a href="https://gptforwork.com/help/gpt-for-sheets/setup/create-openai-key" target="_blank">this article</a> to learn how if necessary. Copy the secret key into a safe location. Create a .env file in the project's directory containing one line:
 
 ```
 OPENAI_SECRET_KEY="<API_KEY>"
@@ -62,7 +62,7 @@ python app.py
 
 The NoteNinjaAI application was build for the purpose of conducting a research study which, in essence, determines whether GPT-3 or a high-school student takes better notes on a World History AP lecture about "Unresolved Tensions After World War I." The notes were evaluated for their degree of similarity to the teacher's notes copy (the teacher master copy) in terms of concision, structure, and verbiage. If you wish to, click below to peruse through the entire study:
 
-[https://ravitej.s3.amazonaws.com/Guntuku_GPT3_Notetaking.pdf](https://ravitej.s3.amazonaws.com/Guntuku_GPT3_Notetaking.pdf)
+<a href="https://ravitej.s3.amazonaws.com/Guntuku_GPT3_Notetaking.pdf" target="_blank">https://ravitej.s3.amazonaws.com/Guntuku_GPT3_Notetaking.pdf</a>
 
 ## Areas for Improvement
 
