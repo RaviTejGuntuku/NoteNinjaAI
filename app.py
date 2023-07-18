@@ -48,7 +48,7 @@ with gr.Blocks(theme=gr.themes.Base(primary_hue="orange", secondary_hue = "pink"
             <h1 style="text-align: center; font-family: \"Times New Roman\"">NoteNinjaAI</h1>
             <p style="text-align: center;">Psst! Are you tired of listening to hour-long lectures and taking notes till your wrist hurts? 
                 Or do you want the jist of a lesson you missed? <br/>
-                Enter <b>NoteNinjaAI</b> - powered by GPT-3, this program can transform a lecture audio or transcription into structured notes organized into seven main topics.
+                Enter <b>NoteNinjaAI</b> - powered by OpenAI services, this program can transform a lecture audio or transcription into structured notes, containing main topics followed by subbullets; general bullet points; and key definitions.
                 <br>
                 <br>
                 Learn more about this application by visiting the <a href="https://github.com/RaviTejGuntuku/NoteNinjaAI"> GitHub Repository </a> </p>
